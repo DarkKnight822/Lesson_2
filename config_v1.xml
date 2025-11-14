@@ -1,0 +1,7 @@
+<config>
+    <package_name>my_game</package_name>
+    <version>1.0.0</version>
+    <repository_url>https://repo.com</repository_url>
+    <test_mode>true</test_mode>
+    <ascii_tree_mode>false</ascii_tree_mode>
+</config>
