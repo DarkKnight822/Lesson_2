@@ -1,7 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <config>
-    <package_name>requests</package_name>
-    <version>2.31.0</version>
-    <repository_url>https://files.pythonhosted.org/packages/py3/r/requests</repository_url>
+    <repository_url>https://files.pythonhosted.org/packages/py3/{first_letter}/{package_name}/{package_name}-{version}-py3-none-any.whl</repository_url>
 </config>
-
-
