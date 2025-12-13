@@ -22,3 +22,7 @@ Graphviz-вывод всегда содержит **прямые зависим�
 
 ```bash
 python main_v5.py pandas
+
+
+<img width="749" height="433" alt="image" src="https://github.com/user-attachments/assets/b3ee6024-fd96-4218-80ab-0fea08d2d315" />
+
